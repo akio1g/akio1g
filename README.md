@@ -12,5 +12,5 @@
 <br> </br>
 <div style="color: orange;"><font size="3"> 📈 Stats: </font></div>
 
-![Akio's GitHub stats](https://github-readme-stats.vercel.app/api?username=akiogabriel&show_icons=true&theme=vision-friendly-dark)
+![Akio's GitHub stats](https://github-readme-stats.vercel.app/api?username=akio1g&show_icons=true&theme=vision-friendly-dark)
 
