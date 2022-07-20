@@ -2,7 +2,7 @@
 ## Hi! I'm Gabriel Akio ✌️
 
 - 📚 I'm student of System Analysis and Development at FATEC-ZL.
-- 🌱 I’m currently learning Django <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
+- 🌱 I’m currently learning React <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 ;
 - 📫 How to reach me: akioumebayashi@gmail.com
 
