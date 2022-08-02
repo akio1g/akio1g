@@ -3,8 +3,7 @@
 
 - 📚 I'm student of System Analysis and Development at FATEC-ZL.
 - 🤵🏽 I'm a Front-End developer intern at Orange Testing. 
-- 🌱 I’m currently learning HTML, CSS, JavaScript. 
-;
+- 🌱 I’m currently learning HTML, CSS, JavaScript;
 - 📫 How to reach me: akioumebayashi@gmail.com
 
 ### [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-umebayashi/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akioumebayashi/)
