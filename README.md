@@ -3,7 +3,7 @@
 
 - 📚 I'm student of System Analysis and Development at FATEC-ZL.
 - 🤵🏽 I'm a Front-End developer intern at Orange Testing. 
-- 🌱 I’m currently learning React <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+- 🌱 I’m currently learning HTML, CSS, JavaScript. 
 ;
 - 📫 How to reach me: akioumebayashi@gmail.com
 
